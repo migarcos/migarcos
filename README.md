@@ -10,6 +10,7 @@ I started learning code with Turbo Pascal language on a 80486 garbash computer t
 - 📊 Passionate about dashboards and automation
 
 ##  Technologies and Tools 🛠️
+![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=migarcos&layout=compact&theme=vision-friendly-dark)
 ![Miguel's GitHub stats](https://github-readme-stats.vercel.app/api?username=migarcos&show_icons=true)
 <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
