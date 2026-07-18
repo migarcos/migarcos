@@ -23,6 +23,14 @@ I started learning code with Turbo Pascal language on a 80486 garbash computer t
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
+## Work and Projects
+
+- [Currency Calculatod NODE CLI](https://github.com/migarcos/node_CLI_currency)
+- [REST API Server](https://cse341-team7.onrender.com/)
+- [Handcrafted Heaven](https://handcrafted-haven-gilt.vercel.app/)
+- [Exposed Economy](https://migarcos.github.io/wdd330project/)
+- [SleepOutside](https://shimmering-paprenjak-ce4c3a.netlify.app/)
+- [WDD230 Projects](https://migarcos.github.io/wdd230/)
 
 ## 💬 Let's Connect! 📫
 
