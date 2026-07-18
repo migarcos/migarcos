@@ -9,7 +9,7 @@ I started learning code with Turbo Pascal language on a 80486 garbash computer t
 - 💻 Skilled in C#, Python, and JavaScript
 - 📊 Passionate about dashboards and automation
 
-##  Technologies and Tools 🛠️
+## Technologies and Tools 🛠️
 <!-- ![My Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=migarcos&layout=compact&theme=vision-friendly-dark)
 <p align="center"> -->
 <p>
@@ -23,6 +23,7 @@ I started learning code with Turbo Pascal language on a 80486 garbash computer t
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
+
 ## Work and Projects
 
 - [Currency Calculatod NODE CLI](https://github.com/migarcos/node_CLI_currency)
