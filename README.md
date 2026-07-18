@@ -12,8 +12,9 @@ I started learning code with Turbo Pascal language on a 80486 garbash computer t
 ##  Technologies and Tools 🛠️
 <!-- ![My Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=migarcos&layout=compact&theme=vision-friendly-dark)
 <p align="center"> -->
-  <img src="https://github-stats-extended.vercel.app/api?username=migarcos&show_icons=true&theme=vision-friendly-dark" alt="GitHub Stats" width="30%" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=migarcos&layout=compact&theme=vision-friendly-dark" alt="Top Languages" width="30%" />
+<p>
+  <img src="https://github-stats-extended.vercel.app/api?username=migarcos&show_icons=true&theme=vision-friendly-dark" alt="GitHub Stats" width="45%" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=migarcos&layout=compact&theme=vision-friendly-dark" alt="Top Languages" width="45%" />
 </p>
 <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
